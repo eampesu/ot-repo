@@ -1,0 +1,87 @@
+commit 130b6a322f226ef374738eb9b78d0faa2ce9d7d8
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 16:14:01 2023 +0200
+
+    poistettu file2.txt ja uudelleennimettu file1.txt
+
+ tiedostoja/file2.txt                  | 0
+ tiedostoja/{file1.txt => file222.txt} | 0
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+
+commit dc0fbbdde9cf29c2328fa0038c395e7ff4c04df9
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 16:08:30 2023 +0200
+
+    luotu hakemisto tiedostoja
+
+ tiedostoja/file1.txt | 0
+ tiedostoja/file2.txt | 0
+ tiedostoja/file3.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit a59cfacc56f4492b997dfb238fa989709aa5de1a
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:55:40 2023 +0200
+
+    muokattu eka.txt ja kolmas.txt
+
+ eka.txt    | 2 +-
+ kolmas.txt | 2 +-
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+commit 7f50531f172a8863613a275d4457c2d6364b609a
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:53:18 2023 +0200
+
+    tiedoston eka.txt nimeä muokattu ja toinen.txt poistettu
+
+ eka.txt    | 2 ++
+ toinen.txt | 1 -
+ 2 files changed, 2 insertions(+), 1 deletion(-)
+
+commit 6d200d2d0e3302ed189aba63baa9b60b50518656
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:36:28 2023 +0200
+
+    lisätty hakemisto stuff
+
+ stuff/jtn.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9eb331cc1c8b6001d28e6192a5c4fbbe3d4fbe3a
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:35:17 2023 +0200
+
+    muokattu toinen.txt ja kolmas.txt
+
+ kolmas.txt | 1 +
+ toinen.txt | 1 +
+ 2 files changed, 2 insertions(+)
+
+commit 2c41d5c97096440f0721eed3c5587ca6eb543f13
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:33:54 2023 +0200
+
+    lisätty kolmas.txt
+
+ kolmas.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 45e324a363c9ce1fc247ec31491a11bf883572a2
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:29:15 2023 +0200
+
+    muutos ja lisäys
+
+ tiedosto.txt | 2 ++
+ toinen.txt   | 0
+ 2 files changed, 2 insertions(+)
+
+commit d28f94fe662861bb077a270393f64fe2961b5e77
+Author: eampesu <elina.pesu@helsinki.fi>
+Date:   Thu Nov 2 15:24:38 2023 +0200
+
+    tiedosto.txt luotu
+
+ tiedosto.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
