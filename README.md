@@ -1,6 +1,4 @@
 # Ohjelmistotekniikka, harjoitustyö
-## Tehtävät
-### Viikko 1
-[gitlog.txt](laskarit/viikko1/gitlog.txt)
-[komentorivi.txt](laskarit/viikko1/komentorivi.txt)
-
+**Alustava** idea oli tehdä *muistiinpanosovellus*. En ole vielä miettinyt
+yksityiskohtia sen tarkemmin. Myös muita vaihtoehtoja olen harkinnut.
+Linkki alihakemistoon laskarit: [laskarit](laskarit)
