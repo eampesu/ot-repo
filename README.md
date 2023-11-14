@@ -5,3 +5,5 @@ Linkki alihakemistoon laskarit: [laskarit](laskarit)
 
 Linkki vaatimusmäärittelyyn: [vaatimusmäärittely](https://github.com/eampesu/ot-repo/blob/master/dokumentaatio/vaatimusmaarittely.md)
 
+Linkki tuntikirjanpitoon: [tuntikirjanpito](https://github.com/eampesu/ot-repo/blob/master/dokumentaatio/tuntikirjanptio.md)
+
